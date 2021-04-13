@@ -6,3 +6,6 @@ Forked own repository (https://github.com/susheelbits/MathCalculations.git) by c
 Cloned locally
 Adding thes points in Readme
 Raise PR from Self-owned to susheelbits/MathCalculations repo (https://github.com/susheelbits/MathCalculations.git)
+
+This way we can show case that the owner (same person) can Fork and raise Pull-requests
+ 
